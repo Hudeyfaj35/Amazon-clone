@@ -1,1 +1,1 @@
-Creating an interactive Amazon clone using Javascript following the SuperSimpleDev tutorial
+Creating an interactive Amazon clone following the SuperSimpleDev tutorial
